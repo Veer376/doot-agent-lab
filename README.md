@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="Doot Agent Icon" width="50"/>
+<img src="assets/icon.png" alt="Doot Agent Icon" width="80"/>
 
 # Doot Agent
 
